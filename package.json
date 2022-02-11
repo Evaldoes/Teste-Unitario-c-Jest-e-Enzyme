@@ -1,0 +1,11 @@
+{
+  "name": "Teste-Unitario-c-Jest-e-Enzyme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Evaldoes/Teste-Unitario-c-Jest-e-Enzyme.git",
+  "author": "Evaldo Cardoso <evaldopkscardoso@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  }
+}
